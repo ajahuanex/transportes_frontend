@@ -1,0 +1,42 @@
+# dependencies
+/node_modules
+
+# misc
+.sass-cache
+.vscode
+/connect
+/coverage
+/dist
+/temp
+/tmp
+.DS_Store
+
+# system
+.angular/
+
+# IDEs and other tools
+.idea/
+.project
+.settings/
+.classpath
+.c9/
+*.log
+*.bak
+*.swp
+
+# build artifacts
+*.js.map
+*.css.map
+
+# npm
+package-lock.json
+
+# yarn
+yarn.lock
+
+# environment variables
+.env
+
+# other
+*.sublime-workspace
+*.sublime-project
